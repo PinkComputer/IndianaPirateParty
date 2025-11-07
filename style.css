@@ -3,7 +3,7 @@
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #003e60;
+    color: #000f5d;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
@@ -15,7 +15,7 @@ p {
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #003e60;
+    color: #000f5d;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
@@ -27,7 +27,7 @@ h2 {
     padding-right: 70px;
     padding-left: 70px;
     font-family:Impact, Arial, Helvetica, sans-serif;
-    -webkit-text-fill-color: #003e60;
+    -webkit-text-fill-color: #000f5d;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 3px;
     font-weight: bold;
@@ -39,7 +39,7 @@ ul {
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #003e60;
+    color: #000f5d;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 2px;
     font-weight: bold;
@@ -51,7 +51,7 @@ ul {
     padding-top: 30px;
     padding-right: 70px;
     padding-left: 70px;
-    color: #003e60;
+    color: #000f5d;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 4px;
     font-weight: bold;
@@ -63,7 +63,7 @@ ul {
 #platform {
     padding-right: 70px;
     padding-left: 70px;
-    color: #003e60;
+    color: #000f5d;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 4px;
     font-weight: bold;
@@ -71,17 +71,19 @@ ul {
     font-family:Impact, Arial, Helvetica, sans-serif;
 }
 
+
 a {
-    -webkit-text-fill-color: #f86016;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-fill-color: #ffb900;
+    -webkit-text-stroke: rgba(225, 225, 225, 0.5);
+    -webkit-text-stroke-width: 1px;
     font-weight: bold;
     paint-order: stroke fill;
 
 }
 
+
 .container-fluid{
-    -webkit-text-fill-color: #003e60;
+    -webkit-text-fill-color: #000f5d;
     -webkit-text-stroke: rgba(255, 255, 255, 0.5);
     -webkit-text-stroke-width: 4px;
     font-weight: bold;
