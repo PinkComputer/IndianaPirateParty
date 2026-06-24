@@ -8,9 +8,6 @@
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: large;
@@ -21,9 +18,6 @@ p {
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: large;
@@ -33,10 +27,6 @@ h2 {
     padding-right: 70px;
     padding-left: 70px;
     font-family:Impact, Arial, Helvetica, sans-serif;
-    -webkit-text-fill-color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 3px;
-    font-weight: bold;
     paint-order: stroke fill;
     font-size: large;
 }
@@ -45,9 +35,6 @@ ul {
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: large;
@@ -57,9 +44,6 @@ ul {
     padding-top: 30px;
     padding-right: 70px;
     padding-left: 70px;
-    color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 4px;
     font-weight: bold;
     paint-order: stroke fill;
     font-family:Impact, Arial, Helvetica, sans-serif;
@@ -69,9 +53,6 @@ ul {
 #platform {
     padding-right: 70px;
     padding-left: 70px;
-    color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 4px;
     font-weight: bold;
     paint-order: stroke fill;
     font-family:Impact, Arial, Helvetica, sans-serif;
@@ -79,9 +60,6 @@ ul {
 
 
 a {
-    -webkit-text-fill-color: #ffb900;
-    -webkit-text-stroke: rgba(225, 225, 225, 0.5);
-    -webkit-text-stroke-width: 1px;
     font-weight: bold;
     paint-order: stroke fill;
 
@@ -89,9 +67,6 @@ a {
 
 
 .container-fluid{
-    -webkit-text-fill-color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 4px;
     font-weight: bold;
     paint-order: stroke fill;
     background-color: #f8f9fa;
@@ -103,7 +78,6 @@ a {
 
 #platform-width{
     width: fit-content;
-    background-color: #003e6043;
 
 }
 
@@ -111,15 +85,13 @@ a {
     background-color: #003e60;
     width: 100%;
     row-gap: 0px;
+    color: #D6A00C;
 }
 
 #welcomepage{
     padding-right: 70px;
     padding-left: 70px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #000f5d;
-    -webkit-text-stroke: rgba(255, 255, 255, 0.5);
-    -webkit-text-stroke-width: 2px;
     font-weight: bold;
     paint-order: stroke fill;
     font-size: large;
@@ -148,4 +120,8 @@ body{
 
 #banner{
     width: 100%;
+}
+
+#join_us {
+    font-size: calc(1.325rem + .9vw);
 }
